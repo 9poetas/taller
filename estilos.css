@@ -349,6 +349,59 @@ padding-left: 10px;
 padding-top: 10px;
 
 }
+.form   {
+
+  max-width: 1280px;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  border-top:  solid 1px #303346;
+
+}
+
+.formulario {
+  max-width: 1280px;
+  margin: auto;
+
+}
+
+
+
+.btn-form {
+  font-family: 'Playfair Display';
+  font-weight: bold;
+  font-size: 18px;
+  display: inline-block;
+  margin: auto;
+  align-content: center;
+  background: #FFF5F5;
+  border: solid 1px;
+  height: px;
+  padding: 20px;
+  padding-bottom: px;
+  border-radius: 0px;
+  color:#303346;
+  text-decoration: none;
+  letter-spacing: 1px;
+  margin-top: 60px;
+
+
+  }
+
+.btn-form a {
+text-decoration: none;
+color: #303346;
+}
+
+.btn-form a {
+text-decoration: none;
+}
+
+
+
+
+.btn-form:hover {color: #989898;}
 
 
 
